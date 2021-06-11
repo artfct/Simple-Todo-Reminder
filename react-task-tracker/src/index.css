@@ -62,10 +62,15 @@ body {
 }
 
 .task.reminder {
-  border-left: 5px solid green;
+  border-left: 10px solid steelblue;
+  background: rgb(0, 0, 0);
 }
 
-.task h3 {
+.task.reminder h3, .task.reminder p{
+  color: rgb(255, 255, 255);
+}
+
+.task h3{
   display: flex;
   align-items: center;
   justify-content: space-between;
