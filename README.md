@@ -1,5 +1,5 @@
 # Task-Tracker
-<p>Simple todo list application for adding, removing and setting reminder.</p>
+<p>Simple todo list React application for adding, removing and setting reminder.</p>
 <p>Use react and local json server (db.json) to store todo list into mock backend</p>
 
 <h2>Usage</h2>
