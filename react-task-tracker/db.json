@@ -1,22 +1,22 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctor appointment",
-      "day": "Feb 5th at 2: 30pm",
-      "reminder": true
+      "text": "CSC307 Exam",
+      "day": "June 11th 5:30 PM",
+      "reminder": true,
+      "id": 1
     },
     {
-      "id": 2,
-      "text": "Google contract meeting",
-      "day": "Feb 6th at 3: 30pm",
-      "reminder": true
+      "text": "Doctor Appointment",
+      "day": "June 12th 12:00 PM",
+      "reminder": false,
+      "id": 2
     },
     {
-      "id": 3,
-      "text": "UFable brand meeting",
-      "day": "Feb 7th at 5: 30pm",
-      "reminder": false
+      "text": "UFable Logo Final Meeting",
+      "day": "June 15th 10:00 PM",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
