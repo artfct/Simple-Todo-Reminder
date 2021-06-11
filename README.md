@@ -1,6 +1,6 @@
 # Task-Tracker
 Simple web application for adding and removing todo list.
-Use react and local json server to store todo list
+Use react and local json server to store todo list into mock backend
 
 <h2>Requirements</h2>
 - React, node.js
